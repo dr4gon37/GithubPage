@@ -20,6 +20,7 @@ author: Bartosz Stempień
 description: >- # this means to ignore newlines until "baseurl:"
   Cześć, witam Cię na swoim blogu. Jestem studentem Politechniki Łódzkiej, na wydziale FTIMS
   (Wydział Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej) na specjalności Gry i Symulacje Komputerowe.
+  <br>
   Na swoim blogu będę się z Tobą dzielił wiedzą z zakresu C++, którą zdobyłem podczas studiów oraz czytania licznych stron internetowych.
   Mam nadzieję, że wiedza, którą tutaj znajdziesz rozwieje Twoje wątpliwości.
   W przyszłości jest możliwość, że blog rozrośnie się o OpenGL i Javę :)
@@ -30,6 +31,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "<!--more-->"
 #theme: jekyll-theme-clean-blog
 remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
 plugins:
