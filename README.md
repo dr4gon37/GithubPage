@@ -5,14 +5,14 @@ Travis test for my own GithubPage
 
 # Description
 
-The main purpose of the page is sharing my knowledge amoung the polish C++ comunnity. <br />
+The main purpose of the page is sharing my knowledge amoung the C++ comunnity. <br />
 Link to the blog: [CeBlog](https://ceblog.pl)
 
 ## Technology
 * Blog using GithubPage.  <br />
 * SSL certificate using CloudFlare.  <br />
 * GitIgnore is added.  <br />
-* Blog is created using Jekyll and Ruby Language
+* Blog is created using [Jekyll](https://jekyllrb.com/) and [Ruby](https://www.ruby-lang.org/en/)
 ## Theme
 Page theme: [Clean Blog Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 
