@@ -9,11 +9,10 @@ The main purpose of the page is sharing my knowledge amoung the polish C++ comun
 Link to the blog: [CeBlog](https://ceblog.pl)
 
 ## Technology
-Blog using GuthubPage and Jekyll plugin.  <br />
-SSL certificate using CloudFlare.  <br />
-GitIgnore is added.  <br />
-Blog is created using Jekyll and WordPress2Jekyll plugin
-
+* Blog using GithubPage.  <br />
+* SSL certificate using CloudFlare.  <br />
+* GitIgnore is added.  <br />
+* Blog is created using Jekyll and Ruby Language
 ## Theme
 Page theme: [Clean Blog Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 
