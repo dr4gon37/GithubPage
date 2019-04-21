@@ -8,4 +8,5 @@ Blog using GuthubPage
 SSL certificate using CloudFlare
 GitIgnore is added
 Blog is created using Jekyll and WordPress2Jekyll plugin
+Page theme: [a link](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 Hope you will enjoy the page :)
