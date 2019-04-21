@@ -13,12 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+encoding: UTF-8
+title: C++ Blog
+email: bartekstep@gmail.com
+author: Bartosz Stempień
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cześć, witam Cię na swoim blogu. Jestem studentem Politechniki Łódzkiej, na wydziale FTIMS
+  (Wydział Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej) na specjalności Gry i Symulacje Komputerowe.
+  Na swoim blogu będę się z Tobą dzielił wiedzą z zakresu C++, którą zdobyłem podczas studiów oraz czytania licznych stron internetowych.
+  Mam nadzieję, że wiedza, którą tutaj znajdziesz rozwieje Twoje wątpliwości.
+  W przyszłości jest możliwość, że blog rozrośnie się o OpenGL i Javę :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ceblog.pl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
