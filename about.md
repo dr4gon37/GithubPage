@@ -14,7 +14,7 @@ I hope the lore, which you are able to find here, help you with any trouble you 
 in the foreseeable future there is a possibility that the page will growns on modern OpenGL Api and Java. 
 
 
-You can find my other project in the link below:
+You can find my other project in the link:
 [github][github] 
 
 
