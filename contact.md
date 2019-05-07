@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Have you any questions? 
+description: Do You have any questions? 
 permalink: /contact
 background: '/img/background/contactMe/Contact-Me.jpg'
 ---
