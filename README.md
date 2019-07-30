@@ -5,7 +5,7 @@ Travis test for my own GithubPage
 
 # Description
 
-The main purpose of the page is sharing my knowledge amoung the C++ community. <br />
+The main purpose of the page is sharing my knowledge among the C++ community. <br />
 Link to the blog: [CeBlog](https://ceblog.pl)
 
 ## Technology
