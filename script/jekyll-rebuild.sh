@@ -14,7 +14,7 @@ rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-git clone https://${GH_TOKEN}@github.com/dr4gon37/GithubPage --branch master _site
+git clone https://${GH_TOKEN}@github.com/dr4gon37/GithubPage.git --branch master _site
 
 # build with Jekyll into "_site"
 # exec jekyll build
