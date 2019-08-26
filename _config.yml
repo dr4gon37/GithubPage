@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ceblog.pl" # the base hostname & protocol for your site, e.g. http://example.com
 
-linkedin_username: bartek-stempień-73a928190
+linkedin_username: bartosz-stempień-73a928190
 github_username:  dr4gon37
 
 # Build settings
