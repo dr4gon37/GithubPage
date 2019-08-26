@@ -10,8 +10,10 @@ Link to the blog: [CeBlog](https://ceblog.pl)
 
 ## Technology
 * Blog using GithubPage.  <br />
-* SSL certificate using CloudFlare.  <br />
+* Disqus is added.  <br />
+* Formspree is added.  <br />
 * GitIgnore is added.  <br />
+* SSL certificate using CloudFlare.  <br />
 * Blog is created using [Jekyll](https://jekyllrb.com/) and [Ruby](https://www.ruby-lang.org/en/)
 ## Theme
 Page theme: [Clean Blog Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posts
+background: '/img/background/posts/writing.jpg'
 ---
 <h1>Latest Posts<br /></h1>
 
@@ -12,7 +13,4 @@ title: Posts
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
-  {% if site.disqus.shortname %}
-	{% include disqus_comments.html %}
-	{% endif %}
 </ul>
