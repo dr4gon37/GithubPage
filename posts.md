@@ -12,4 +12,7 @@ title: Posts
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
+  {% if site.disqus.shortname %}
+	{% include disqus_comments.html %}
+	{% endif %}
 </ul>
