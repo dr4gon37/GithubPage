@@ -31,7 +31,7 @@ class T : Base // class T : private Base
 
 {% endhighlight %}
 
-There are no mow differences between structure and class in C++.  <br/>
+There are no more differences between structure and class in C++.  <br/>
 To prove it, we will look at that code:  <br/>
 {% highlight c++ %}
 #include <type_traits>
