@@ -4,6 +4,7 @@ title: "Memory alignment in structure"
 subtitle: ""
 date: 2019-08-28 19:43:00
 comments: true
+categories: c++
 background: '/img/background/posts/ram.jpeg'
 ---
 Hello, <br />
