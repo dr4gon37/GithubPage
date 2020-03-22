@@ -42,7 +42,7 @@ Size A is 24 bits, size B is 16 bits, word size = 1 byte. <br />
 <b>Why?</b> And what is word in this case?  <br />
 
 First of all we have to clear the definitions: <br />
-&middot; <i>Data alignment</i> - data are putting in the memory of the computer at space that equals a multiple of the word size. <br />
+&middot; <i>Data alignment</i> - data is being put in the memory of the computer at space that equals a multiple of the word size. <br />
 &middot; <i>Data structure padding</i> - to align the data sometimes compiler can add extra bites to make memory continuous.  <br />
 &middot; <i>Word</i> -  the amount of data that a machine can process at one time. Word size could be 4 bits or 64 bits. It is up to processor. <br />
 
