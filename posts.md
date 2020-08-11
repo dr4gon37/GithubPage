@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-background: '/img/background/posts/writing.jpg'
+background: '/img/background/posts/writing.png'
 ---
 <h1>Latest Posts<br /></h1>
 

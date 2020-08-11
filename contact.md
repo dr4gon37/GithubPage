@@ -3,7 +3,7 @@ layout: page
 title: Contact
 description: Do You have any questions? 
 permalink: /contact
-background: '/img/background/contactMe/Contact-Me.jpg'
+background: '/img/background/contactMe/Contact-Me.png'
 ---
 
 If you want to contact me, please enter the fields below.
