@@ -48,5 +48,5 @@ If you want to contact me, please enter the fields below.
 
 <script>
     var contactform =  document.getElementById('formaction');
-	contactform.setAttribute('action', '//formspree.io/' + 'bartekstep' + '@' + 'gmail' + '.' + 'com');
+	contactform.setAttribute('action', '//formspree.io/f/xgepydzg');
 </script>
