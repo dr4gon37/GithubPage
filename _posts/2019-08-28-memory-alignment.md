@@ -38,7 +38,7 @@ int main()
 }
 {% endhighlight %}
 it is obvious that those two structs have the same size. But this is not the truth. <br />
-Size A is 24 bits, size B is 16 bits, word size = 1 byte. <br />
+Size A is 24 bytes, size B is 16 bytes, word size = 1 byte. <br />
 <b>Why?</b> And what is word in this case?  <br />
 
 First of all we have to clear the definitions: <br />
@@ -81,8 +81,8 @@ You can get the size of the word using this code:
 #include <iostream>
 int main()
 {
-    std::cout << sizeof(size_t) << std::endl; // 32 bits machine - 4 bits 
-                                              // 64 bits machine - 8 bits
+    std::cout << sizeof(size_t) << std::endl; // 32 bits machine - 4 bytes 
+                                              // 64 bits machine - 8 bytes
     return EXIT_SUCCESS;
 }
 {% endhighlight %}
